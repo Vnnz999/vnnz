@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    
+}
+
+ul{
+    list-style: none;
+    color: rgb(255, 153, 0);
+    -webkit-text-stroke-color: #333;
+    -webkit-text-stroke-width: 1px;
+    font-size: 20px;
+    padding-top: 0px;
+    
+
+}
+img{
+    
+    width: 300px;
+    padding-top: 10px;
+    
+}
+h1{
+    font-style: italic;
+    color: orange;
+    
+    font-size: 60px;
+    -webkit-text-stroke-color: #333;
+    -webkit-text-stroke-width: 1px;
+    padding-left: 45px;
+}
